@@ -1,0 +1,10 @@
+category_encoders
+Cython
+jupyter
+matplotlib
+mlxtend
+numpy
+pandas
+plotchecker
+scikit-learn
+seaborn
